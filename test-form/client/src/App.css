@@ -1,0 +1,22 @@
+#root {
+  min-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form input {
+  width: 100%;
+  display: block;
+  padding: 5px;
+  font-size: 20px;
+  margin-bottom: 2rem;
+}
+
+form textarea {
+  height: 10rem;
+  resize: none;
+  margin-top: 15px;
+  padding: 5px;
+  font-size: 20px;
+}
